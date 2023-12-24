@@ -1,0 +1,350 @@
+2023-10-17 21:33:55,973 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-10-17 21:33:55,981 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-10-17 21:33:55,981 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-10-17 21:33:55,989 [main] JP.co.esm.caddies.jomt.jsystem.k <INFO> - jude property file not found. It is created at the time of the end of application.
+2023-10-17 21:33:57,737 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - maybe initial value of system property.
+2023-10-17 21:34:09,590 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-10-17 21:39:20,002 [SIGTERM handler] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-10-17 21:39:20,013 [SIGTERM handler] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-10-17 21:39:43,138 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-10-17 21:39:43,144 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-10-17 21:39:43,152 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-10-17 21:39:44,965 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - invalid value. x is negative. x:-32000, displayOriginX:0.0
+2023-10-17 21:39:44,965 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.swing.f <INFO> - invalid value. y is negative. y:-32000, displayOriginY:0.0
+2023-10-17 21:39:52,026 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-10-17 21:40:01,831 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-10-17 21:40:01,866 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-10-17 21:42:07,743 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-10-17 21:42:07,743 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-10-17 21:42:07,743 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-10-17 21:42:19,457 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-10-17 21:54:21,770 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:34:18,363 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:34:18,373 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-10-17 22:37:29,513 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:37:32,527 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:38:03,935 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:42:23,682 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:42:25,515 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:42:27,264 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:42:27,274 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:42:27,274 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-10-17 22:42:33,533 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-10-17 22:42:33,543 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta]
+2023-10-17 22:42:33,543 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-10-17 22:42:35,253 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-10-17 22:42:36,598 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-10-17 22:43:09,895 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:43:09,905 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:43:09,925 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-10-17 22:44:51,235 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-10-17 22:44:51,245 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta]
+2023-10-17 22:44:51,245 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-10-17 22:44:53,201 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-10-17 22:44:54,843 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-10-17 22:51:36,366 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-10-17 22:58:43,061 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:58:43,071 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-17 22:58:43,101 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-10-30 10:34:48,052 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-10-30 10:34:48,062 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-10-30 10:34:48,072 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-10-30 10:34:51,871 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-10-30 10:37:15,783 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-30 10:37:15,793 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-10-30 10:37:15,793 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-10-30 10:37:15,803 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 12:34:52,217 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 12:34:52,227 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-01 12:34:52,237 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 12:34:56,852 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 12:34:56,872 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 15:39:10,551 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 15:39:10,551 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta]
+2023-11-01 15:39:10,561 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 15:39:11,401 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 15:39:11,411 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-01 15:39:11,411 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 15:39:13,231 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 15:39:15,985 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-01 15:39:18,571 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-01 16:01:31,993 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:01:32,003 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:01:32,043 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 16:01:35,504 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 16:01:35,504 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-01 16:01:35,514 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 16:01:41,212 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-01 16:03:23,782 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\SCENARIO.asta
+2023-11-01 16:03:23,813 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 16:03:23,893 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:03:23,893 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:15:09,030 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\RECEVOIR UN MESSAGE EX2.asta
+2023-11-01 16:15:09,129 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:15:09,129 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:21:24,173 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Supprimer un message.asta
+2023-11-01 16:21:24,246 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:21:24,246 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:24:31,029 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\organiser son compte messagerie.asta
+2023-11-01 16:24:31,106 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:24:31,106 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:33:22,907 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\valider  les informations.asta
+2023-11-01 16:33:22,958 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:33:22,968 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:33:26,553 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:33:26,553 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:40:50,994 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 16:40:50,994 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta]
+2023-11-01 16:40:51,004 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 16:40:53,034 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 16:40:56,726 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-01 16:40:59,407 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:40:59,417 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 16:40:59,457 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 17:23:25,172 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\CONSULTER son compte messagerie.asta
+2023-11-01 17:23:25,244 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:23:25,254 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:44:53,766 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\creation d'un compte messagerie instantané.asta
+2023-11-01 17:44:53,834 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:44:53,844 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:46:22,836 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 17:46:22,836 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta]
+2023-11-01 17:46:22,846 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 17:46:24,810 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 17:46:27,783 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-01 17:46:33,345 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:46:33,355 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:46:33,385 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 17:46:41,455 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-01 17:46:41,465 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\creation d'un compte messagerie instantané.asta]
+2023-11-01 17:46:41,465 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-01 17:46:43,479 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 17:46:47,415 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-01 17:59:15,287 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\creation d'un compte messagerie instantané.asta
+2023-11-01 17:59:15,402 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 17:59:15,402 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:06:12,257 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 18:06:12,297 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-01 18:12:42,209 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\organisation du compte.asta
+2023-11-01 18:12:42,269 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:12:42,269 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:14:30,144 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jview.fG <ERROR> - error has occurred.
+java.lang.NullPointerException: null
+	at JP.co.esm.caddies.jomt.jview.IconResourceUtil.a(X:412)
+	at JP.co.esm.caddies.jomt.jview.ek.a(X:527)
+	at JP.co.esm.caddies.jomt.jview.ek.a(X:518)
+	at tb.getListCellRendererComponent(X:51)
+	at javax.swing.plaf.basic.BasicListUI.paintCell(BasicListUI.java:209)
+	at javax.swing.plaf.basic.BasicListUI.paintImpl(BasicListUI.java:317)
+	at javax.swing.plaf.basic.BasicListUI.paint(BasicListUI.java:240)
+	at javax.swing.plaf.ComponentUI.update(ComponentUI.java:161)
+	at javax.swing.JComponent.paintComponent(JComponent.java:780)
+	at javax.swing.JComponent.paint(JComponent.java:1056)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paint(JComponent.java:1065)
+	at javax.swing.JViewport.paint(JViewport.java:728)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paint(JComponent.java:1065)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paint(JComponent.java:1065)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paint(JComponent.java:1065)
+	at javax.swing.JLayeredPane.paint(JLayeredPane.java:586)
+	at javax.swing.JComponent.paintChildren(JComponent.java:889)
+	at javax.swing.JComponent.paintToOffscreen(JComponent.java:5217)
+	at javax.swing.RepaintManager$PaintManager.paintDoubleBuffered(RepaintManager.java:1579)
+	at javax.swing.RepaintManager$PaintManager.paint(RepaintManager.java:1502)
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272)
+	at javax.swing.JComponent.paint(JComponent.java:1042)
+	at java.awt.GraphicsCallback$PaintCallback.run(GraphicsCallback.java:39)
+	at sun.awt.SunGraphicsCallback.runOneComponent(SunGraphicsCallback.java:79)
+	at sun.awt.SunGraphicsCallback.runComponents(SunGraphicsCallback.java:116)
+	at java.awt.Container.paint(Container.java:1978)
+	at java.awt.Window.paint(Window.java:3906)
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:842)
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:814)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:814)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:789)
+	at javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:738)
+	at javax.swing.RepaintManager.access$1200(RepaintManager.java:64)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1732)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2023-11-01 18:15:28,888 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\recevoir un message.asta
+2023-11-01 18:15:28,954 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:15:28,954 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:18:33,683 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\faire des status.asta
+2023-11-01 18:18:33,731 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:18:33,741 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:22:04,678 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\créer des groupes.asta
+2023-11-01 18:22:04,752 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:22:04,752 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:34:44,379 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\faire des appels.asta
+2023-11-01 18:34:44,449 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 18:34:44,449 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 19:45:36,761 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\UseCase Diagram0.asta
+2023-11-01 19:45:36,872 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 19:45:36,872 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 19:45:36,882 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-01 20:14:32,719 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\envoyer un lmessage.asta
+2023-11-01 20:14:32,800 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 20:14:32,805 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-01 20:14:32,821 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-06 21:38:37,328 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-06 21:38:37,338 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\faire des appels.asta]
+2023-11-06 21:38:37,348 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-06 21:38:39,780 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-06 21:38:42,027 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-06 21:38:42,037 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-06 21:38:42,087 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-06 23:37:00,260 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-06 23:37:00,260 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Desktop\creation d'un compte messagerie instantané.asta]
+2023-11-06 23:37:00,270 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-06 23:37:01,950 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-06 23:37:02,280 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <WARN> - Http connection can not be connected.
+com.change_vision.platform.connectors.exception.NativeUnknownHostException: L'adresse ou le nom de serveur n'a pas pu être résolu
+	at com.change_vision.platform.connectors.wininet.WinInetUtil.getLastErrorException(WinInetUtil.java:49)
+	at com.change_vision.platform.connectors.impl.RequestHandle.httpSendRequest(RequestHandle.java:104)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.sendRequest(NativeHttpURLConnection.java:372)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.commit(NativeHttpURLConnection.java:313)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.getResponseCode(NativeHttpURLConnection.java:139)
+	at JP.co.esm.caddies.jomt.jutil.Z.b(X:139)
+	at JP.co.esm.caddies.jomt.jutil.Z.a(X:68)
+	at JP.co.esm.caddies.jomt.jutil.d.a(X:94)
+	at JP.co.esm.caddies.jomt.jutil.b.a(X:39)
+	at JP.co.esm.caddies.jomt.jutil.b.run(X:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-11-06 23:37:11,234 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-06 23:37:11,244 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-06 23:37:11,284 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-09 10:49:27,234 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-09 10:49:27,260 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-09 10:49:27,264 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-09 10:49:37,270 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-09 10:50:01,404 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-09 10:50:01,415 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-09 10:50:01,415 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-09 10:50:01,424 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-15 18:19:36,892 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-15 18:19:36,902 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-15 18:19:36,902 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-15 18:19:45,915 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-15 19:34:31,702 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Desktop\diagramme d'etat de l'etat civil.asta
+2023-11-15 19:34:31,722 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-15 19:34:31,912 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-15 19:34:31,912 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-15 19:34:31,922 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-11-29 17:42:44,842 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-29 17:42:44,864 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-29 17:42:44,864 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-29 17:42:58,890 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <WARN> - Http connection can not be connected.
+com.change_vision.platform.connectors.exception.NativeUnknownHostException: L'adresse ou le nom de serveur n'a pas pu être résolu
+	at com.change_vision.platform.connectors.wininet.WinInetUtil.getLastErrorException(WinInetUtil.java:49)
+	at com.change_vision.platform.connectors.impl.RequestHandle.httpSendRequest(RequestHandle.java:104)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.sendRequest(NativeHttpURLConnection.java:372)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.commit(NativeHttpURLConnection.java:313)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.getResponseCode(NativeHttpURLConnection.java:139)
+	at JP.co.esm.caddies.jomt.jutil.Z.b(X:139)
+	at JP.co.esm.caddies.jomt.jutil.Z.a(X:68)
+	at JP.co.esm.caddies.jomt.jutil.d.a(X:94)
+	at JP.co.esm.caddies.jomt.jutil.b.a(X:39)
+	at JP.co.esm.caddies.jomt.jutil.b.run(X:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-11-29 19:37:53,268 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-11-29 19:37:53,278 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-11-29 19:37:53,278 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-11-29 19:38:03,651 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-11-29 20:42:53,856 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-29 20:42:53,876 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-11-29 20:42:53,876 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-11-29 20:42:53,896 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-04 09:49:09,754 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-04 09:49:09,754 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-12-04 09:49:09,764 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-04 09:49:24,399 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <WARN> - Http connection can not be connected.
+com.change_vision.platform.connectors.exception.NativeUnknownHostException: L'adresse ou le nom de serveur n'a pas pu être résolu
+	at com.change_vision.platform.connectors.wininet.WinInetUtil.getLastErrorException(WinInetUtil.java:49)
+	at com.change_vision.platform.connectors.impl.RequestHandle.httpSendRequest(RequestHandle.java:104)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.sendRequest(NativeHttpURLConnection.java:372)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.commit(NativeHttpURLConnection.java:313)
+	at com.change_vision.platform.connectors.NativeHttpURLConnection.getResponseCode(NativeHttpURLConnection.java:139)
+	at JP.co.esm.caddies.jomt.jutil.Z.b(X:139)
+	at JP.co.esm.caddies.jomt.jutil.Z.a(X:68)
+	at JP.co.esm.caddies.jomt.jutil.d.a(X:94)
+	at JP.co.esm.caddies.jomt.jutil.b.a(X:39)
+	at JP.co.esm.caddies.jomt.jutil.b.run(X:30)
+	at java.lang.Thread.run(Thread.java:750)
+2023-12-04 10:26:08,808 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\uc diagramme avion.asta
+2023-12-04 10:26:08,818 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-04 10:29:10,713 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-04 10:29:10,713 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-04 10:29:10,733 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-06 14:17:08,721 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-06 14:17:08,721 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\uc diagramme avion.asta]
+2023-12-06 14:17:08,731 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-06 14:17:10,762 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-06 14:17:15,469 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-12-06 15:32:03,100 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\uc diagramme avion.asta
+2023-12-06 15:32:06,501 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\uc diagramme avion.asta
+2023-12-06 15:32:12,063 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 15:32:12,073 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 15:32:12,123 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-06 15:35:13,919 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-06 15:35:13,929 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-12-06 15:35:13,929 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-06 15:35:43,125 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-12-06 15:35:51,247 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 15:35:51,257 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 15:35:51,267 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-06 15:38:16,963 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\uc diagramme avion.asta
+2023-12-06 15:43:56,206 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-06 15:43:56,206 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\uc diagramme avion.asta]
+2023-12-06 15:43:56,221 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-06 15:43:58,188 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-06 15:44:00,335 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-12-06 15:47:53,692 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-06 15:47:53,702 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\AppData\Local\Microsoft\Windows\INetCache\IE\I0TS2YTW\uc_diagramme_avion[1].asta]
+2023-12-06 15:47:53,702 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-06 15:47:54,137 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-06 15:47:54,147 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args [C:\Users\NISSRIN\AppData\Local\Microsoft\Windows\INetCache\IE\XAC6ZRMP\uc_diagramme_avion[1].asta]
+2023-12-06 15:47:54,147 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-06 15:47:56,302 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-06 15:47:58,018 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-06 15:47:58,093 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-12-06 15:48:00,996 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-12-06 15:48:26,038 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 15:48:26,048 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 15:58:42,112 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-06 16:25:53,163 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\AppData\Local\Microsoft\Windows\INetCache\IE\I0TS2YTW\uc_diagramme_avion[2].asta
+2023-12-06 16:25:53,312 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 16:25:53,312 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 16:25:53,322 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-06 16:25:56,174 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 16:25:56,184 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 16:25:56,224 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-06 16:26:02,449 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 16:26:02,449 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-06 16:26:02,459 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
+2023-12-13 14:59:34,438 [main] JP.co.esm.caddies.jomt.Jude <INFO> - #### === UML 9.1.0 / 448a59 ==============================
+2023-12-13 14:59:34,453 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start program args []
+2023-12-13 14:59:34,453 [main] JP.co.esm.caddies.jomt.Jude <INFO> - start vm args [-Xms16m, -Xmx1024m, -Dsun.java2d.d3d=false, -Djava.library.path=lib\rlm]
+2023-12-13 14:59:39,512 [Thread-2] JP.co.esm.caddies.jomt.jutil.Z <INFO> - This is the latest version of Astah.
+2023-12-13 17:40:24,461 [AWT-EventQueue-0] JP.co.esm.caddies.golf.model.EntityStore <INFO> - saveAs: C:\Users\NISSRIN\Documents\MODELISATION ET GENIE LOGICIEL\Class Diagram mini projet.asta
+2023-12-13 17:40:24,481 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jutil.m <INFO> - stack=5m
+2023-12-13 17:40:29,347 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-13 17:40:29,357 [AWT-EventQueue-0] JP.co.esm.caddies.uml.mindmap.MMUserIconManager <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeMMUserIconP.xml
+2023-12-13 17:40:29,367 [AWT-EventQueue-0] JP.co.esm.caddies.jomt.jsystem.k <INFO> - file: C:\Users\NISSRIN\.astah\uml\JudeU.properties
